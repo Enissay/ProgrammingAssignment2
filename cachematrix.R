@@ -1,4 +1,4 @@
-## This file conatins two functions makeCacheMatrix and cacheSolve
+## This file contains two functions makeCacheMatrix and cacheSolve
 
 ## This function creates a special "matrix" object that can cache its inverse
 makeCacheMatrix <- function(x = matrix()) {
